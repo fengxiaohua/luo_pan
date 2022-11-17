@@ -1,0 +1,1 @@
+import{_ as t}from"./sub-page-header.73afd2f9.js";import{_}from"./main.86c52d20.js";import{a as c,o as r,b as a,f as o}from"./entry.f4162f10.js";import"./swiper-slide.3a2ae309.js";const s={};function m(p,f){const e=t,n=_;return r(),a("div",null,[o(e),o(n)])}const x=c(s,[["render",m]]);export{x as default};

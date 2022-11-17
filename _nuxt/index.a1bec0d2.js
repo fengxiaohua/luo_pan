@@ -1,0 +1,1 @@
+import{a as e,o as c,b as n}from"./entry.f4162f10.js";const o={};function r(t,a){return c(),n("div",null," \u89E3\u51B3\u65B9\u6848\u4E8C\u7EA7\u9875\u9762 ")}const _=e(o,[["render",r]]);export{_ as default};
